@@ -21,11 +21,12 @@ Given below are my contributions to the project.
     * What it does:
     * Justification:
 - **New Features**:
-  * Implementation of `Property` package [#60](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/60), [#72](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/72)
-    * What it does: 
-    * Justification:
+  * Implementation of `seedu.address.model.property` package [#60](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/60), [#72](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/72)
+    * What it does: Represents a property and its associations as classes within the Cobb codebase.
+    * Justification: The package follows the Object-Oriented Programming paradigm that is used throughout Cobb.
+    * Highlights: This 
   * Implementation of `listprops` command [#85](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/85)
-    * What it does:
+    * What it does: 
     * Justification:
   * Implementation of `deleteprop` command [#85](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/85)
     * What it does:
@@ -36,15 +37,16 @@ Given below are my contributions to the project.
   
 - **Documentation**:
   * User Guide: 
-    * Updated descriptions for `findbuyers` and `findprops` commands
-    * Added descriptions for `sortbuyers` and `sortprops` commands 
+    * Updated documentations for `findbuyers` and `findprops` commands
+    * Added documentations for `sortbuyers` and `sortprops` commands 
 
   * Developer Guide:
     * Updated all UML diagrams to reflect Cobb's design architecture and `UI`, `Logic`, `Storage`, `Model` components
     * Updated previous outdated descriptions to reflect current state of Cobb
     * Updated all UML diagrams to use plantUML
     * Added "Create a property" section under "Implementation"
-- **Contributions to team-based tasks**: to be added
+- **Contributions to team-based tasks**:
+1.
 - **Review/mentoring contributions**:
   * PRs reviewed (with non-trivial comment):
     [#68](https://github.com/AY2223S1-CS2103T-F12-1/tp/pull/68),
@@ -61,4 +63,5 @@ Given below are my contributions to the project.
     [#192](https://github.com/AY2223S1-CS2103T-T13-1/tp/issues/192),
     [#193](https://github.com/AY2223S1-CS2103T-T13-1/tp/issues/193)
 
-- **Contributions beyond the project team**: to be added soon
+- **Contributions beyond the project team**: 
+  
